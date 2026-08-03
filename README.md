@@ -1,59 +1,63 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=220&section=header&text=Rishabh%20Gangrade&fontSize=50&fontColor=0f172a&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=220&section=header&text=Rishabh%20Gangrade&fontSize=52&fontColor=0f172a&animation=twinkling&fontAlignY=36" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://linkedin.com/in/rishabh-gangrade-a37199320">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+MERN+Full+Stack+Developer;⚡+React.js+%7C+Node.js+%7C+MongoDB+%7C+Java;🌐+Crafting+Scalable+Web+Experiences;💼+Open+for+Full-Time+Roles+%26+Freelance" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <!-- Quick Badges -->
-  <a href="https://linkedin.com/in/rishabh-gangrade-a37199320">
-    <img src="https://img.shields.io/badge/Open_To_Work-38bdf8?style=for-the-badge&logoColor=0f172a&labelColor=0f172a" alt="Open To Work"/>
-  </a>
-  <a href="https://linkedin.com/in/rishabh-gangrade-a37199320">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+MERN+Full+Stack+Developer;⚡+Crafting+Scalable+Web+Apps;💻+React+%7C+Node.js+%7C+MongoDB+%7C+Java;💼+Open+for+Full-Time+Roles+%26+Freelance" alt="Typing Title" />
   </a>
 
   <br><br>
 
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=RishabhGangrade&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RishabhGangrade?color=38bdf8&style=for-the-badge&label=FOLLOWERS&logo=github" alt="Followers" />
+  <!-- Status & Quick Links Badges -->
+  <a href="https://linkedin.com/in/rishabh-gangrade-a37199320" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Open_To_Work-38bdf8?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a" alt="Open To Work" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rishabh-gangrade-a37199320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <br><br>
+
+  <!-- Visitor Counter & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=RishabhGangrade&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/RishabhGangrade?color=38bdf8&style=flat-square&label=FOLLOWERS&logo=github" alt="Followers" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-<table border="0">
+<table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
+      <h3>⚡ Passionate Software Engineer</h3>
       <p>
-        👋 Hi! I'm <b>Rishabh Gangrade</b>, a passionate <b>MERN Full Stack Developer</b> dedicated to building responsive, modern, and high-performance web applications.
+        Hi there! I'm <b>Rishabh Gangrade</b>, a MERN Full Stack Developer focused on building high-performance, accessible, and clean web applications.
       </p>
       <ul>
-        <li>💻 <b>Core Stack:</b> JavaScript, React.js, Node.js, Express.js & MongoDB</li>
-        <li>☕ <b>Strong Fundamentals:</b> Java, Data Structures & SQL</li>
-        <li>🎯 <b>Current Focus:</b> Deepening System Design & Full-Stack Architecture</li>
-        <li>📫 <b>Let's Connect:</b> Open for Full-Time Roles, Internships & Collaboration</li>
+        <li>🛠️ <b>Core Technologies:</b> React.js, Node.js, Express.js, MongoDB</li>
+        <li>☕ <b>Strong Fundamentals:</b> Java, Data Structures, SQL</li>
+        <li>🎯 <b>Current Focus:</b> Microservices Architecture & System Design</li>
+        <li>📫 <b>Opportunities:</b> Open for Full-Time Roles, Internships & Freelance</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="45%" valign="top">
 
 ```typescript
-const developer = {
-  name: "Rishabh Gangrade",
-  type: "Full Stack Engineer",
-  code: ["JS", "Java", "SQL", "HTML/CSS"],
-  architecture: ["MERN", "REST APIs"],
-  passions: ["Clean Code", "UI/UX", "Problem Solving"],
-  hireable: true
+const rishabh = {
+  title: "MERN Full Stack Developer",
+  code: ["JavaScript", "Java", "SQL", "HTML/CSS"],
+  frameworks: ["React.js", "Express.js", "Node.js"],
+  database: ["MongoDB", "MySQL"],
+  style: ["Tailwind", "Bootstrap"],
+  status: "Ready for new challenges 🚀"
 };
