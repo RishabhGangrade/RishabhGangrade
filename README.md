@@ -51,8 +51,14 @@ const rishabhGangrade = {
 
 | Layer | Technology |
 |---|---|
+| Language | Core JAVA |
+| Language | HTML 5 |
+| Language | CSS |
 | Language | JavaScript |
-
+| Language | BootStrap |
+| Language | React JS |
+| Language | SQL |
+| Language | MONGO DB |
 🔗 [Code](https://github.com/RishabhGangrade/Javascript-Project-)
 
 </td>
